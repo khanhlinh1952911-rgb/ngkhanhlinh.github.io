@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Code HTML học kỳ 2</tille>
+</head>
+<body>
+    <h1>lớp 12A4</h1>
+    <h2>HOTEN:NGUYỄN KHÁNH LINH</h2>
+    <h3>Bai tap F1</h3>
+    <h4><a href="D:\12a4-NGUYEN KHANH LINH\baitapf1\hinh3.html">hinh3<a/></h4>
+    <h4><a href="D:\12a4-NGUYEN KHANH LINH\baitapf1\hinh4.html">hinh4<a/></h4>
+    <h4>Hình 5</h4>
+    <h4>Hình 6</h4>
+    <h4>Hình 7</h4>
+    <h3>Bai Tap F2</h3>
+    <h4><a href="D:\12a4-NGUYEN KHANH LINH\baitapf2\hinh1.html">hinh 1</a></h4>
+    <h4><a href="D:\12a4-NGUYEN KHANH LINH\baitapf2\hinh2.html">hinh 2</a></h4>
+    <h4><a href="D:\12a4-NGUYEN KHANH LINH\baitapf2\hinh3.html">hinh 3</a></h4>\
+</body>
+</html>
